@@ -1,0 +1,6 @@
+@Houra.Api_HostAddress = http://localhost:5127
+
+GET {{Houra.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

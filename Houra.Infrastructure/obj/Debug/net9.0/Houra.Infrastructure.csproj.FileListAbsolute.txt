@@ -1,0 +1,12 @@
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\bin\Debug\net9.0\Houra.Infrastructure.deps.json
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\bin\Debug\net9.0\Houra.Infrastructure.dll
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\bin\Debug\net9.0\Houra.Infrastructure.pdb
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\Houra.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\Houra.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\Houra.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\Houra.Infrastructure.AssemblyInfo.cs
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\Houra.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\Houra.Infrastructure.dll
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\refint\Houra.Infrastructure.dll
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\Houra.Infrastructure.pdb
+C:\Users\FASIL\source\repos\Houra\Houra.Infrastructure\obj\Debug\net9.0\ref\Houra.Infrastructure.dll

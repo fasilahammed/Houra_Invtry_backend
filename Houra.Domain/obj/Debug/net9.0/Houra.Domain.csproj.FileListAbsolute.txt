@@ -1,0 +1,11 @@
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\bin\Debug\net9.0\Houra.Domain.deps.json
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\bin\Debug\net9.0\Houra.Domain.dll
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\bin\Debug\net9.0\Houra.Domain.pdb
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\obj\Debug\net9.0\Houra.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\obj\Debug\net9.0\Houra.Domain.AssemblyInfoInputs.cache
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\obj\Debug\net9.0\Houra.Domain.AssemblyInfo.cs
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\obj\Debug\net9.0\Houra.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\obj\Debug\net9.0\Houra.Domain.dll
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\obj\Debug\net9.0\refint\Houra.Domain.dll
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\obj\Debug\net9.0\Houra.Domain.pdb
+C:\Users\FASIL\source\repos\Houra\Houra.Domain\obj\Debug\net9.0\ref\Houra.Domain.dll

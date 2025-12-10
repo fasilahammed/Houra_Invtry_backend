@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAEsc49JILc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FASIL\\source\\repos\\Houra\\Houra.Infrastructure\\Houra.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FASIL\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}
